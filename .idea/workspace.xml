@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b9accc0-0645-4d19-a663-3464e01f055e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/where_exercises.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums_migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/albums_migration.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums_seeder.sql" beforeDir="false" afterPath="$PROJECT_DIR$/albums_seeder.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/select_exercises.sql" beforeDir="false" afterPath="$PROJECT_DIR$/select_exercises.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/update_exercises.sql" beforeDir="false" afterPath="$PROJECT_DIR$/update_exercises.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/where_exercises.sql" beforeDir="false" afterPath="$PROJECT_DIR$/where_exercises.sql" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/where_exercises.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="488">
+              <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -123,7 +117,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548781268107" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548783350942" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -154,12 +148,12 @@
       <workItem from="1548438942074" duration="424000" />
       <workItem from="1548439401286" duration="1095000" />
       <workItem from="1548692744125" duration="243000" />
-      <workItem from="1548777120970" duration="3723000" />
+      <workItem from="1548777120970" duration="5208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5485000" />
+    <option name="totallyTimeSpent" value="6970000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -184,7 +178,7 @@
       <window_info anchor="bottom" id="Database Console" weight="0.3289183" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289183" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289183" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -221,8 +215,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/where_exercises.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="488">
+          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
         </state>
       </provider>
     </entry>
