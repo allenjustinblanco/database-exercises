@@ -1,7 +1,9 @@
 use codeup_test_db;
 
-insert into albums (artists, name, release_date, sales, genre) values ("Michael Jackson", "Thriller", 1976, 66, "Pop, rock, R&B"),
-("Eagles", "Thei Greates Hits", 1976, 51, "Country rock, soft rock, folk rock"),
+insert into albums (artists, name, release_date, sales, genre) 
+values 
+("Michael Jackson", "Thriller", 1976, 66, "Pop, rock, R&B"),
+("Eagles", "Their Greatest Hits", 1976, 51, "Country rock, soft rock, folk rock"),
 ("AC/DC", "Back in Black", 1980, 50, "Hard rock"),
 ("Pink Floyd", "The Dark Side Of The Moon", 1973, 45, "Progressive rock"),
 ("Whitney Houston", "The Bodyguard", 1992, 45, "R&B, soul, pop, soundtrack"),
