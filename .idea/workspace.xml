@@ -6,6 +6,7 @@
       <change afterPath="$PROJECT_DIR$/order_by_exercises.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/64ace501-4333-4750-a0e6-c446ddc6f6ed.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions_exercises.sql" beforeDir="false" afterPath="$PROJECT_DIR$/functions_exercises.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/where_exercises.sql" beforeDir="false" afterPath="$PROJECT_DIR$/where_exercises.sql" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -54,7 +55,25 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order_by_exercises.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="48" selection-start-line="46" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/functions_exercises.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/limit_exercises.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="182">
@@ -75,13 +94,14 @@
         <option value="$PROJECT_DIR$/where_exercises.sql" />
         <option value="$PROJECT_DIR$/order_by_exercises.sql" />
         <option value="$PROJECT_DIR$/limit_exercises.sql" />
+        <option value="$PROJECT_DIR$/functions_exercises.sql" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="960" />
+    <option name="x" value="853" />
     <option name="y" value="27" />
-    <option name="width" value="960" />
+    <option name="width" value="1067" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectView">
@@ -108,7 +128,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548802537122" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548803095158" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/where_exercises.sql" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -141,12 +161,12 @@
       <workItem from="1548439401286" duration="1095000" />
       <workItem from="1548692744125" duration="243000" />
       <workItem from="1548777120970" duration="6985000" />
-      <workItem from="1548786065769" duration="4528000" />
+      <workItem from="1548786065769" duration="5148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13275000" />
+    <option name="totallyTimeSpent" value="13895000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -158,9 +178,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="27" width="960" height="1053" extended-state="4" />
+    <frame x="853" y="27" width="1067" height="1053" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23956044" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21435595" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -198,17 +219,17 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/64ace501-4333-4750-a0e6-c446ddc6f6ed/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/order_by_exercises.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="43" column="22" lean-forward="true" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/640faaa7-209f-4168-bf28-7a830fb8c1a4/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/limit_exercises.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -219,10 +240,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/limit_exercises.sql">
+    <entry file="file://$PROJECT_DIR$/order_by_exercises.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="370">
+          <caret line="48" selection-start-line="46" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions_exercises.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
         </state>
       </provider>
     </entry>
