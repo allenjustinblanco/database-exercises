@@ -1,4 +1,4 @@
-create database join_test_db;
+create database if not exists join_test_db;
 
 CREATE TABLE roles (
                      id INT UNSIGNED NOT NULL AUTO_INCREMENT,
@@ -28,3 +28,15 @@ values
 ('adam', 'adam@example.com', 3),
 ('jane', 'jane@example.com', null),
 ('mike', 'mike@example.com', null);
+#left join
+select * from users
+left join roles r on users.role_id = r.id;
+#join
+select *
+from users
+join roles r on users.role_id = r.id;
+#right join
+select *
+from users
+right join roles r on users.role_id = r.id;
+

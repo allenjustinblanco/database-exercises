@@ -25,9 +25,9 @@ where last_name like '%q%'
 group by last_name
 order by count(*);
 
-
 select count(*), gender FROM employees
 where first_name in ('Irena', 'Vidya', 'Maya')
 group by gender
 order by count(*) desc;
 
+ol
